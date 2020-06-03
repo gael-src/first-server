@@ -2,13 +2,17 @@
 
 Simple Node Server
 
-### How to use:
+## How to use:
 
 > $ git clone "repo" <br>
 > $ cd "repo" <br>
 > $ node main.js <br>
 
-Go to "localhost:3000" in your browser
+### In the Browser:
+
+> $ http://localhost:3000/ <br>
+> $ http://localhost:3000/index.html <br>
+> $ http://localhost:3000/about.html <br>
 
 </br>
 </br>
