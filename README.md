@@ -8,11 +8,11 @@ Simple Node Server
 > $ cd "repo" <br>
 > $ node main.js <br>
 
-### In the Browser:
+### Check in the Browser:
 
-> $ http://localhost:3000/ <br>
-> $ http://localhost:3000/index.html <br>
-> $ http://localhost:3000/about.html <br>
+> $ "http://localhost:3000/" <br>
+> $ "http://localhost:3000/index.html" <br>
+> $ "http://localhost:3000/about.html" <br>
 
 </br>
 </br>
