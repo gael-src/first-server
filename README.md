@@ -10,9 +10,9 @@ Simple Node Server
 
 ### Check in the Browser:
 
-> $ "http://localhost:3000/" <br>
-> $ "http://localhost:3000/index.html" <br>
-> $ "http://localhost:3000/about.html" <br>
+> "http://localhost:3000/" <br>
+> "http://localhost:3000/index.html" <br>
+> "http://localhost:3000/about.html" <br>
 
 </br>
 </br>
